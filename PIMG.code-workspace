@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../../xampp/htdocs/PIMG"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
